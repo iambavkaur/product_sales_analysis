@@ -1,1 +1,11 @@
-# product_sales_analysis
+# Analyzing Electronic Product Sales Data with Python
+
+# Description:
+This project delves into the world of online electronics sales by analyzing a dataset from Amazon. Using Python libraries, valuable insights into customer behavior, product performance, and sales trends were derived. This exploration will aid in understanding market dynamics and potentially inform strategic business decisions.
+
+# Technologies:
+Python (Data analysis and visualization) Libraries: Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization)
+
+# Dataset:
+The dataset used in this project is available publicly on Kaggle: https://www.kaggle.com/datasets/edusanketdk/electronics
+
